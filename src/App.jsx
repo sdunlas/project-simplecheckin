@@ -148,7 +148,7 @@ const App = () => {
     }
   };
 
-  const appTitle = "Fluid Events Check-in Platform (Prototype)";
+  const appTitle = "Fluid Events Check-in Platform";
 
   return (
     <Router>
